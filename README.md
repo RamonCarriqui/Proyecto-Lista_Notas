@@ -21,4 +21,5 @@ Debe ser posible modificar la prioridad de una tarea. Las tareas se muestran sie
 EXTRAS AÑADIDOS POR MI:
 No se pueden agregar tareas sin introducir alguno de los campos que se piden. Se pueden agregar tareas utilizando el teclado, no se obliga al uso del ratón. Al marcar una tarea como completada su prioridad se ve reducida al mínimo.
 
+Proyecto en GitHub Pages mediante https://ramoncarriqui.github.io/Proyecto-Lista_Notas/
 Proyecto disponible en https://notasvueclirch-6041b.web.app mediante Firebase.
